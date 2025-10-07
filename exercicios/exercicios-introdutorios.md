@@ -1,12 +1,18 @@
 1. Se ontem foi quarta-feira, amanhã será...
+sexta
 
 2. Complete a sequência: 1, 4, 9, 16, 25, ...
+36
 
 3. Um trem de 100 metros de comprimento viaja a 50 km/h. Quanto tempo levará para atravessar um túnel de 50 metros?
 
+10,8 seg
+
 4. Júlia é mais alta que Ana. Ana é mais baixa que Bruno. Qual dos três é o mais alto?
+julia ou bruno
 
 5. Em uma sala, há 2 pais e 2 filhos. Qual o número mínimo de pessoas na sala?
+3
 
 6. Se o código para "GATO" é 4130, qual é o código para "PATO"?
 
